@@ -18,7 +18,7 @@ I build tools and libraries, mostly in TypeScript/Node.js, C#/.NET, C++, and occ
   configuration workflow.
 - [Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics) - a Spotify plugin to
   enable the support for more stylized and synchronized song lyrics viewing.
-  I implemented various optimization fixes after finding various fundamental
+  I implemented various optimization fixes after finding fundamental
   performance issues in the code base.
 
 ## Contact
