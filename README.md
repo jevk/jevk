@@ -1,5 +1,3 @@
-![Jevk](https://github-readme-stats.vercel.app/api?username=jevk&show_icons=true&theme=transparent)
-
 # Hi, I'm Jevk
 
 Early-career software developer from Finland with a long hobbyist background.
