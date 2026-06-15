@@ -16,6 +16,10 @@ I build tools and libraries, mostly in TypeScript/Node.js, C#/.NET, C++, and occ
 - [LethalPostersTool](https://github.com/jevk/LethalPostersTool) - a Windows
   desktop utility (C#, .NET 8, Windows Forms) that simplifies a mod content
   configuration workflow.
+- [Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics) - a Spotify plugin to
+  enable the support for more stylized and synchronized song lyrics viewing.
+  I implemented various optimization fixes after finding various fundamental
+  performance issues in the code base.
 
 ## Contact
 
