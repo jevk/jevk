@@ -23,6 +23,6 @@ I build tools and libraries, mostly in TypeScript/Node.js, C#/.NET, C++, and occ
 
 ## Contact
 
-- Email: jevk@jevk.fi
+- Email: github@jevk.fi
 
 ![Jevk](https://github-readme-stats.vercel.app/api?username=jevk&show_icons=true&theme=transparent)
